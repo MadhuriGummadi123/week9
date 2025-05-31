@@ -1,0 +1,10 @@
+npm install -g @angular/cli
+npm install –g @angular/cli //creating cli
+ ng version
+ ng new prog9 //creating angular project SPA(Single page application) //app component is a default
+component.
+ cd prog9
+ ng g c header //creating header component
+ ng g c home //creating home component
+ ng g c profile //creating profile component
+ ng serve //running angular project
